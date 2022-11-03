@@ -14,4 +14,4 @@ Intersection Observer can be considered more performant than attaching scroll ev
 
 ## Demo
 
-[CodeSandbox Demo](https://316pc.csb.app/)
+[Demo](https://praveenp30.github.io/intersectionobserver-javascript/)
